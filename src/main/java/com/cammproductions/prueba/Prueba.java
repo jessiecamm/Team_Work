@@ -17,8 +17,14 @@ public class Prueba {
     public static void main(String[] args) {
         // TODO code application logic here
         
-        System.out.println("Lograremos trabajar colaborativamente...");
-        System.out.println("Ya lo veremos...");
+        System.out.println("No tengo la más puta idea que estoy haciendo... jaja");
+        
+        System.out.println("Perdón, pero me metí en tu código! Jajaja");
+        System.out.println("Esto deberia estar en mi rama...");
+        
+        System.out.println("En realidad entiendo que debería ser un mismo código que combine las ramas");
+        System.out.println("Para que podamos trabajarlo juntos, que misterioso todo...");
+      
     }
     
 }
