@@ -17,8 +17,8 @@ public class Prueba {
     public static void main(String[] args) {
         // TODO code application logic here
         
-        System.out.println("Lograremos trabajar colaborativamente...");
-        System.out.println("Ya lo veremos...");
+        System.out.println("No tengo la más puta idea que estoy haciendo... jaja");
+      
     }
     
 }
