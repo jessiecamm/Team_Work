@@ -31,6 +31,8 @@ public class Prueba {
         System.out.println("Me la hizo dificil xq me daba un error en el 'package'");
         System.out.println("y tuve que googlear como loco! :D ");
         System.out.println("a ver si puedo subir todo esto...");
+        
+        System.out.println("ahora voy del remoto al local");
       
     }
     
