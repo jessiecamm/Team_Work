@@ -26,6 +26,11 @@ public class Prueba {
         System.out.println("Esta es la 4ta linea de este código");
       
         System.out.println("Y ahora que mergeamos... qué pasa?");
+        
+        System.out.println("Ufff! Recién pude clonar el repositorio en mi compu,");
+        System.out.println("Me la hizo dificil xq me daba un error en el 'package'");
+        System.out.println("y tuve que googlear como loco! :D ");
+        System.out.println("a ver si puedo subir todo esto...");
       
     }
     
