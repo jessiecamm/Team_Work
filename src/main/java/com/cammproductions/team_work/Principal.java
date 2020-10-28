@@ -98,7 +98,6 @@ public class Principal {
         System.out.println("LET'S FIGHT!");
         System.out.println();
         
-        
         while ((h1.getEnergia() > 0) && (v1.getEnergia() > 0)) {            
             
             minimo = 1;
